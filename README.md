@@ -1,5 +1,8 @@
 # Adobe_1B - Round 1B
 ---------------------------------------------------
+Adobe Hackathon 2025 – PDF Outline Extraction
+Author: Prem Vignesh
+
 Goal:
 Extract document outline using only font size, font family, and layout — no LLMs.
 
